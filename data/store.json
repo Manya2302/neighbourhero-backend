@@ -1,0 +1,150 @@
+{
+  "profile": {
+    "id": "local-hero",
+    "name": "Parth Patel",
+    "email": "talaviyaparth07@gmail.com",
+    "area": "Ahmedabad"
+  },
+  "settings": {
+    "language": "English",
+    "notificationsEnabled": true,
+    "darkMode": true
+  },
+  "issues": [
+    {
+      "id": "a1a1a1a1-a1a1-41a1-a1a1-a1a1a1a1a1a1",
+      "title": "Deep pothole near University Gate",
+      "description": "Large pothole making the left lane difficult to use, especially after rain.",
+      "category": "Pothole",
+      "status": "in_progress",
+      "priority": "High",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "votes": 28,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Parth Patel",
+      "created_at": "2026-09-01T05:39:56.278Z"
+    },
+    {
+      "id": "b2b2b2b2-b2b2-42b2-b2b2-b2b2b2b2b2b2",
+      "title": "Overflowing bins at Riverwalk",
+      "description": "Waste has been piling up beside the market entrance since yesterday.",
+      "category": "Garbage",
+      "status": "pending",
+      "priority": "Medium",
+      "latitude": 23.0338,
+      "longitude": 72.5577,
+      "votes": 16,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Aisha Khan",
+      "created_at": "2026-09-01T02:39:56.279Z"
+    },
+    {
+      "id": "c3c3c3c3-c3c3-43c3-c3c3-c3c3c3c3c3c3",
+      "title": "Streetlight out on Park Avenue",
+      "description": "The crossing is very dark after sunset and needs attention.",
+      "category": "Streetlight",
+      "status": "resolved",
+      "priority": "High",
+      "latitude": 23.0395,
+      "longitude": 72.566,
+      "votes": 41,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Rahul Mehta",
+      "created_at": "2026-08-31T05:39:56.279Z"
+    },
+    {
+      "id": "d4d4d4d4-d4d4-44d4-d4d4-d4d4d4d4d4d4",
+      "title": "Water leak near CG Road junction",
+      "description": "A broken pipe is flooding the footpath and slowing traffic.",
+      "category": "Water leak",
+      "status": "pending",
+      "priority": "Critical",
+      "latitude": 23.0278,
+      "longitude": 72.5589,
+      "votes": 22,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Neha Shah",
+      "created_at": "2026-08-31T23:39:56.279Z"
+    },
+    {
+      "id": "e5e5e5e5-e5e5-45e5-e5e5-e5e5e5e5e5e5",
+      "title": "Broken road shoulder on SG Highway",
+      "description": "The road edge has crumbled, creating a drop for two-wheelers.",
+      "category": "Road damage",
+      "status": "in_progress",
+      "priority": "High",
+      "latitude": 23.0469,
+      "longitude": 72.5316,
+      "votes": 19,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Parth Patel",
+      "created_at": "2026-08-31T19:39:56.279Z"
+    },
+    {
+      "id": "f6f6f6f6-f6f6-46f6-f6f6-f6f6f6f6f6f6",
+      "title": "Open manhole cover near bus stop",
+      "description": "The cover is missing and is a safety risk after dark.",
+      "category": "Other",
+      "status": "pending",
+      "priority": "Critical",
+      "latitude": 23.0184,
+      "longitude": 72.5873,
+      "votes": 33,
+      "photo_url": null,
+      "photo_path": null,
+      "reporter_name": "Community Watch",
+      "created_at": "2026-09-01T04:39:56.279Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "26b8bf66-20a5-4f90-9387-ca14257239d5",
+      "issue_id": "a1a1a1a1-a1a1-41a1-a1a1-a1a1a1a1a1a1",
+      "author": "Aisha Khan",
+      "body": "I drive this stretch every morning. Please repair it soon.",
+      "created_at": "2026-09-01T06:59:56.279Z"
+    },
+    {
+      "id": "a784a190-89f4-43ff-b34f-d34b3dd642f3",
+      "issue_id": "a1a1a1a1-a1a1-41a1-a1a1-a1a1a1a1a1a1",
+      "author": "Parth Patel",
+      "body": "Thanks for helping bring attention to this.",
+      "created_at": "2026-09-01T07:39:56.279Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "109815d2-0169-4be5-beb6-2c7abfcb355d",
+      "title": "Your report was acknowledged",
+      "body": "The pothole near University Gate is now being reviewed.",
+      "icon": "checkmark-circle",
+      "issue_id": "a1a1a1a1-a1a1-41a1-a1a1-a1a1a1a1a1a1",
+      "read": false,
+      "created_at": "2026-09-01T05:39:56.279Z"
+    },
+    {
+      "id": "7f5d0603-7c49-427c-835f-8f033e69b6dd",
+      "title": "Your report is helping neighbours",
+      "body": "16 people have viewed the overflowing bins report this week.",
+      "icon": "people",
+      "issue_id": "b2b2b2b2-b2b2-42b2-b2b2-b2b2b2b2b2b2",
+      "read": false,
+      "created_at": "2026-08-31T11:39:56.279Z"
+    },
+    {
+      "id": "c02aa431-b4ae-4d25-be7b-38805cb48a3c",
+      "title": "You earned 10 points",
+      "body": "Thanks for helping keep your community moving.",
+      "icon": "trophy",
+      "issue_id": "c3c3c3c3-c3c3-43c3-c3c3-c3c3c3c3c3c3",
+      "read": true,
+      "created_at": "2026-08-30T07:39:56.279Z"
+    }
+  ]
+}
